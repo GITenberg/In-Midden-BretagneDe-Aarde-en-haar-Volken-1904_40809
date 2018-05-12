@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5186
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Geffroy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40809#In-Midden-BretagneDe-Aarde-en-haar-Volken-1904
 gutenberg_issued: '2012-09-20'
 gutenberg_type: Text
 identifiers:

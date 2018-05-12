@@ -1,0 +1,30 @@
+_repo: In-Midden-BretagneDe-Aarde-en-haar-Volken-1904_40809
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40809-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Geffroy, Gustave
+    alias: Geffroy, G. (Gustave)
+    birthdate: 1855
+    deathdate: 1926
+    gutenberg_agent_id: '5186'
+    url: http://www.gutenberg.org/2009/agents/5186
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Geffroy
+description: ''
+gutenberg_issued: '2012-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40809'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Brittany (France) -- Description and travel'
+title: 'In Midden-Bretagne
+
+  De Aarde en haar Volken, 1904'
+url: http://www.gutenberg.org/ebooks/40809
